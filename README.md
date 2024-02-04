@@ -1,10 +1,10 @@
 **Exploratory (Manual Non-scripted) Testing Plan ATM SUT V1.0**
 
-##Introduction:## 
+## Introduction:
 
 The Test Plan is crafted to specify the scope, methodology, resources, and timetable for all testing endeavors for the ATM simulation system. It delineates the items and features slated for testing, the testing methodologies to be applied, assigns testing responsibilities to members, outlines the resources and schedule necessary for testing completion, and addresses the potential risks linked to the plan.
 
-##Test Strategy:##
+## Test Strategy:##
 
 The test plan for Manual Non Scripted testing will prioritize all key operations & functions of the ATM SUT V1.0. The key areas, functions & operations that the Manual Non Scripted testing will be following as listed below, which are expected to be used by either users & operators:
 
@@ -40,7 +40,8 @@ The key components for the testing environment will be following as listed below
    1. Various amounts of withdrawal, deposit, transfer amounts
    1. Balance inquiries on different accounts
 1. Banking communication & system networking
-## Testing Strategy & Cases:##
+
+## Testing Strategy & Cases:
 For each of the key operations, functions and areas for SUT defined above, the following strategy is defined for the Manual Non Scripted testing. Common paths and exceptional paths are defined within the cases.
 
 **Operator Panel:**
@@ -81,7 +82,8 @@ For each of the key operations, functions and areas for SUT defined above, the f
 1. *Receipts:*
    1. Confirm receipt data is validated with system log (exceptional)
    1. Confirm receipt displays correct information for the transactions (common)
-## <a name="_5eazaszlbui"></a>Testing Execution & Reposting of Issues:
+
+## Testing Execution & Reposting of Issues:
 
 To execute testing of the testing cases, each of the above test cases will be followed (with different team members executing different cases). Test data will be prepared using valid data and invalid data for card numbers, PIN, different deposit amounts, withdrawal amounts, transfer amounts and communication with the bank for various transactions.
 
