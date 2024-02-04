@@ -92,10 +92,10 @@ All cases will be individually and thoroughly tested for diversified valid & inv
 
 
 ## Reflection and Learning
-###Difficulties and Challanges
+### Difficulties and Challenges
 While tackling this assignment, we smoothly handled different tasks, and things went quite well overall. Yet, figuring out how Jira works took some getting used to. Understanding all the details of the Jira platform required a bit of time and effort. Another challenge was assigning tasks among team members effectively, affecting the assignment's overall efficiency. To improve in the future, we plan to tackle these challenges early on and become more familiar with Jira, aiming for smoother task delegation and better collaboration in upcoming assignments.
 
 
-###Comments and feedback
+### Comments and feedback
 The SENG 637 Lab Assignment #1 is a great way to learn about software testing step by step. It covers exploring a system, trying out different testing methods, and checking if issues are fixed in a new version. The use of tools like Jira and Azure DevOps adds a real-world touch. The guidelines for submitting work are clear, and the lab encourages working in pairs, enhancing learning through teamwork. The document is easy to follow, with simple language and helpful feedback sections. Overall, it's a practical and well-organized introduction to software testing.
 
