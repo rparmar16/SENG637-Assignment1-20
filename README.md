@@ -185,7 +185,7 @@ In our two groups, we worked on the software issues in different ways. Group 1, 
 
 Now, Group 2, with Robby and Gopal, cared more about how these problems affected users and the overall operation. They were bothered that basic things like checking balances or printing receipts had errors, which could make customers lose trust and cause problems for the bank. They said it's not just about fixing the problems but also making sure all account types are thoroughly tested to stop such issues. They emphasized that clear communication and accurate transaction records are crucial to keep customers happy and make the bank work smoothly.
 
-## How the pair testing was managed and team work/effort was divided
+# How the pair testing was managed and team work/effort was divided
 
 We split up into two pairs of groups. We assigned each group different components to test. Below is the breakdown of the testing assigned to each group.
 
