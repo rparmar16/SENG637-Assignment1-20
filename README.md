@@ -91,6 +91,26 @@ For each of the key operations, functions and areas for SUT defined above, the f
 1. *Receipts:*
    1. Confirm receipt data is validated with system log (exceptional)
    1. Confirm receipt displays correct information for the transactions (common)
+  
+## Test Logistics
+
+Assign different groups different components to test
+
+*Deposits:* - Usman| Jubayer | Ehsan
+*Withdrawals:* - Robby | Gopal
+*Transfer:* - Usman| Jubayer | Ehsan
+*Balance Inquiry* - Robby | Gopal
+*Transaction Operations:*  - Usman| Jubayer | Ehsan
+*User Interface:* - Robby | Gopal
+*Receipts:* - Usman| Jubayer | Ehsan
+
+
+
+
+
+
+
+
 
 ## Testing Execution & Reposting of Issues:
 
