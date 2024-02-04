@@ -1,4 +1,4 @@
-# Exploratory (Manual Non-scripted) Testing Plan ATM SUT V1.0
+# Testing Plan ATM System – Lab 1 Version SUT V1.0/1.1
 
 ## Introduction:
 
