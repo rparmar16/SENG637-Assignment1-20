@@ -88,3 +88,8 @@ For each of the key operations, functions and areas for SUT defined above, the f
 To execute testing of the testing cases, each of the above test cases will be followed (with different team members executing different cases). Test data will be prepared using valid data and invalid data for card numbers, PIN, different deposit amounts, withdrawal amounts, transfer amounts and communication with the bank for various transactions.
 
 All cases will be individually and thoroughly tested for diversified valid & invalid data. Results will be compared for expected outcome vs. actual outcome for all of the test cases and cases where there are issues identified will be collected & reported as defects. Detailed conditions, data utilized, SUT, priority and steps to reproduce the issues & bugs will be reported in the tracking tool.
+
+
+
+## Reflection and Learning
+While tackling this assignment, we smoothly handled different tasks, and things went quite well overall. Yet, figuring out how Jira works took some getting used to. Understanding all the details of the Jira platform required a bit of time and effort. Another challenge was assigning tasks among team members effectively, affecting the assignment's overall efficiency. To improve in the future, we plan to tackle these challenges early on and become more familiar with Jira, aiming for smoother task delegation and better collaboration in upcoming assignments.
