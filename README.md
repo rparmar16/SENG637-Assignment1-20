@@ -1,4 +1,4 @@
-**Exploratory (Manual Non-scripted) Testing Plan ATM SUT V1.0**
+# Exploratory (Manual Non-scripted) Testing Plan ATM SUT V1.0
 
 ## Introduction:
 
