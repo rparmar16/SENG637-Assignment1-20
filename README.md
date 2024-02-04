@@ -13,7 +13,7 @@ Group Number : 20
 
 This Test Plan is crafted to specify the scope, methodology, for all testing work undertaken for the ATM simulation system. It delineates the items and features slated for testing, the testing methodologies to be applied, assigns testing responsibilities to members, outlines the resources and schedule necessary for testing completion, and addresses the potential risks linked to the plan.
 
-## Test Strategy:
+## Test Types & Strategy:
 
 The test plan for Manual Non Scripted testing will prioritize all key operations & functions of the ATM SUT V1.0. The key areas, functions & operations that the Manual Non Scripted testing will be following as listed below, which are expected to be used by either users & operators:
 
@@ -50,7 +50,7 @@ The key components for the testing environment will be following as listed below
    1. Balance inquiries on different accounts
 1. Banking communication & system networking
 
-## Testing Strategy & Cases:
+## Scope of Testing:
 For each of the key operations, functions and areas for SUT defined above, the following strategy is defined for the Manual Non Scripted testing. Common paths and exceptional paths are defined within the cases.
 
 **Operator Panel:**
