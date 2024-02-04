@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-The Test Plan is crafted to specify the scope, methodology, resources, and timetable for all testing endeavors for the ATM simulation system. It delineates the items and features slated for testing, the testing methodologies to be applied, assigns testing responsibilities to members, outlines the resources and schedule necessary for testing completion, and addresses the potential risks linked to the plan.
+This Test Plan is crafted to specify the scope, methodology, for all testing work undertaken for the ATM simulation system. It delineates the items and features slated for testing, the testing methodologies to be applied, assigns testing responsibilities to members, outlines the resources and schedule necessary for testing completion, and addresses the potential risks linked to the plan.
 
 ## Test Strategy:
 
