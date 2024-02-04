@@ -2,8 +2,8 @@
 
 ## Introduction:
 
-Group Member : 20
-| Group Member name|
+Group Number : 20
+| Group Member Name|
 |------------------|
 |Robby|
 |Gopal|
