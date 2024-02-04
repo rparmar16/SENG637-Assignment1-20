@@ -1,17 +1,35 @@
 >   **SENG 637 - Dependability and Reliability of Software Systems**
 
-# Lab. Report \#1 – Introduction to Testing and Defect Tracking
+**Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-## Introduction
-
-Group Number : 20
-| Group Member Name|
+| Group: 20        |
 |------------------|
 |Robby|
 |Gopal|
 |Jubayer|
 |Usman|
 |Ehsan|
+
+**Table of Contents**
+
+(When you finish writing, update the following list using right click, then
+“Update Field”)
+
+[1 Introduction	1](#_Toc439194677)
+
+[2 High-level description of the exploratory testing plan	1](#_Toc439194678)
+
+[3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
+
+[4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
+
+[5 How the pair testing was managed and team work/effort was
+divided	1](#_Toc439194681)
+
+[6 Difficulties encountered, challenges overcome, and lessons
+learned	1](#_Toc439194682)
+
+## Introduction
 
 This Test Plan has been established to highlight the scope, methodology, for all testing work undertaken for the ATM simulation system. It delineates the items and features slated for testing such as types, strategy and scope for testing, logistics, comparison between exploratory & manual testing, and notes during peer reviews.
 
