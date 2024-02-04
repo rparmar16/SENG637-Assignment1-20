@@ -1,6 +1,6 @@
 # Testing Plan ATM System – Lab 1 Version SUT V1.0/1.1
 
-## Introduction:
+## Introduction
 
 Group Number : 20
 | Group Member Name|
@@ -199,7 +199,7 @@ To provide a comprehensive comparison between exploratory testing and manual fun
 
 In conclusion, both exploratory and manual functional testing offer distinct advantages and play crucial roles in a comprehensive testing strategy. Manual functional testing, based on a predefined test suite like the one provided, ensures thorough coverage and reliability testing for known scenarios. Exploratory testing, on the other hand, excels in identifying unexpected issues, leveraging tester intuition and adaptability. A balanced approach, integrating both methods, typically yields the best outcomes, ensuring both breadth and depth of testing.
 
-## Notes & Discussions:
+## Notes & Discussions
 In our two groups, we worked on the software issues in different ways. Group 1, with Jubayer, Usman, and Ehsan, looked at the technical side. They were worried about problems happening again and again, like the balance inquiry issue and the tricky PIN process. They thought these were not just small mistakes but bigger troubles in the system. They wondered if the errors in taking out money were because the system didn't check the account balance properly or if there was a mistake in how the updates were done. They suggested digging deep into how the system checks transactions.
 
 Now, Group 2, with Robby and Gopal, cared more about how these problems affected users and the overall operation. They were bothered that basic things like checking balances or printing receipts had errors, which could make customers lose trust and cause problems for the bank. They said it's not just about fixing the problems but also making sure all account types are thoroughly tested to stop such issues. They emphasized that clear communication and accurate transaction records are crucial to keep customers happy and make the bank work smoothly.
