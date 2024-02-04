@@ -1,4 +1,6 @@
-# Testing Plan ATM System – Lab 1 Version SUT V1.0/1.1
+>   **SENG 637 - Dependability and Reliability of Software Systems**
+
+**Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
 ## Introduction
 
