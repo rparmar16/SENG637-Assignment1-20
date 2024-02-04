@@ -137,7 +137,7 @@ Assign different groups different components to test
 
 
 
-## Testing Execution & Reposting of Issues:
+## Testing Execution & Reposting of Issues
 
 To execute testing of the testing cases, each of the above test cases will be followed (with different team members executing different cases). Test data will be prepared using valid data and invalid data for card numbers, PIN, different deposit amounts, withdrawal amounts, transfer amounts and communication with the bank for various transactions.
 
