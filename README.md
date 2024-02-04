@@ -4,7 +4,7 @@
 
 The Test Plan is crafted to specify the scope, methodology, resources, and timetable for all testing endeavors for the ATM simulation system. It delineates the items and features slated for testing, the testing methodologies to be applied, assigns testing responsibilities to members, outlines the resources and schedule necessary for testing completion, and addresses the potential risks linked to the plan.
 
-## Test Strategy:##
+## Test Strategy:
 
 The test plan for Manual Non Scripted testing will prioritize all key operations & functions of the ATM SUT V1.0. The key areas, functions & operations that the Manual Non Scripted testing will be following as listed below, which are expected to be used by either users & operators:
 
