@@ -29,7 +29,11 @@ divided	1](#_Toc439194681)
 [6 Difficulties encountered, challenges overcome, and lessons
 learned	1](#_Toc439194682)
 
-## Introduction
+# Introduction
+
+In this we will be performing a series of test on a ATM System, verson 1.0 & 1.1. These tests consists of exploratory, scripted, and regression testing. We will be reporting the bugs discoverd during the test in bug tracking system, Jira. We have selected Jira due to its wide industry use and easy interface. Exploratory testing involves an unscripted and dynamic approach where testers explore the software application without predefined test cases, relying on their domain knowlege of the individual to uncover defects and issues not covered by formal test cases. This method is particularly efficient in finding unexpected defects, mimicking real-world user interactions, and adapting to changing requirements. While, manual functional testing follows a scripted approach with predefined test cases, focusing on verifying that the software functions according to specified requirements. It provides structured and controlled testing, is effective for repetitive and critical scenarios, but may be time-consuming for large projects. Both approaches have their merits and can be used in combination to ensure comprehensive testing coverage in software development.
+
+# High-level description of the exploratory testing plan
 
 This Test Plan has been established to highlight the scope, methodology, for all testing work undertaken for the ATM simulation system. It delineates the items and features slated for testing such as types, strategy and scope for testing, logistics, comparison between exploratory & manual testing, and notes during peer reviews.
 
@@ -71,6 +75,7 @@ The key components for the testing environment will be following as listed below
 1. Banking communication & system networking
 
 ## Scope of Testing:
+
 For each of the key operations, functions and areas for SUT defined above, the following strategy is defined for the Manual Non Scripted testing. Common paths and exceptional paths are defined within the cases.
 
 **Operator Panel:**
@@ -111,51 +116,6 @@ For each of the key operations, functions and areas for SUT defined above, the f
 1. *Receipts:*
    1. Confirm receipt data is validated with system log (exceptional)
    1. Confirm receipt displays correct information for the transactions (common)
-  
-## Test Logistics
-
-Assign different groups different components to test
-
-### Deposits:
-- Usman
-- Jubayer
-- Ehsan
-
-### Withdrawals:
-- Robby
-- Gopal
-
-### Transfer:
-- Usman
-- Jubayer
-- Ehsan
-
-### Balance Inquiry:
-- Robby
-- Gopal
-
-### Transaction Operations:
-- Usman
-- Jubayer
-- Ehsan
-
-### User Interface:
-- Robby
-- Gopal
-
-### Receipts:
-- Usman
-- Jubayer
-- Ehsan
-
-
-
-
-
-
-
-
-
 
 ## Testing Execution & Reposting of Issues
 
@@ -163,7 +123,7 @@ To execute testing of the testing cases, each of the above test cases will be fo
 
 All cases will be individually and thoroughly tested for diversified valid & invalid data. Results will be compared for expected outcome vs. actual outcome for all of the test cases and cases where there are issues identified will be collected & reported as defects. Detailed conditions, data utilized, SUT, priority and steps to reproduce the issues & bugs will be reported in the tracking tool.
 
-## Comparison of Exploratory and Manual Functional Testing
+# Comparison of Exploratory and Manual Functional Testing
 
 To provide a comprehensive comparison between exploratory testing and manual functional testing based on the provided test suite, we will examine various aspects such as benefits, trade-offs, effectiveness, and efficiency. The test suite provided outlines a series of manual functional tests for an ATM system, covering a wide range of scenarios from system startup and shutdown to transactions like deposits, withdrawals, and transfers, as well as error handling and user input validation.
 
@@ -219,16 +179,51 @@ To provide a comprehensive comparison between exploratory testing and manual fun
 
 In conclusion, both exploratory and manual functional testing offer distinct advantages and play crucial roles in a comprehensive testing strategy. Manual functional testing, based on a predefined test suite like the one provided, ensures thorough coverage and reliability testing for known scenarios. Exploratory testing, on the other hand, excels in identifying unexpected issues, leveraging tester intuition and adaptability. A balanced approach, integrating both methods, typically yields the best outcomes, ensuring both breadth and depth of testing.
 
-## Notes & Discussions
+# Notes and discussion of the peer reviews of defect reports
+
 In our two groups, we worked on the software issues in different ways. Group 1, with Jubayer, Usman, and Ehsan, looked at the technical side. They were worried about problems happening again and again, like the balance inquiry issue and the tricky PIN process. They thought these were not just small mistakes but bigger troubles in the system. They wondered if the errors in taking out money were because the system didn't check the account balance properly or if there was a mistake in how the updates were done. They suggested digging deep into how the system checks transactions.
 
 Now, Group 2, with Robby and Gopal, cared more about how these problems affected users and the overall operation. They were bothered that basic things like checking balances or printing receipts had errors, which could make customers lose trust and cause problems for the bank. They said it's not just about fixing the problems but also making sure all account types are thoroughly tested to stop such issues. They emphasized that clear communication and accurate transaction records are crucial to keep customers happy and make the bank work smoothly.
 
-## Reflection and Learning
-### Difficulties and Challenges
+## How the pair testing was managed and team work/effort was divided
+
+We split up into two pairs of groups. We assigned each group different components to test. Below is the breakdown of the testing assigned to each group.
+
+### Deposits:
+- Usman
+- Jubayer
+- Ehsan
+
+### Withdrawals:
+- Robby
+- Gopal
+
+### Transfer:
+- Usman
+- Jubayer
+- Ehsan
+
+### Balance Inquiry:
+- Robby
+- Gopal
+
+### Transaction Operations:
+- Usman
+- Jubayer
+- Ehsan
+
+### User Interface:
+- Robby
+- Gopal
+
+### Receipts:
+- Usman
+- Jubayer
+- Ehsan
+
+# Difficulties encountered, challenges overcome, and lessons learned
+
 While tackling this assignment, we smoothly handled different tasks, and things went quite well overall. Yet, figuring out how Jira works took some getting used to. Understanding all the details of the Jira platform required a bit of time and effort. Another challenge was assigning tasks among team members effectively, affecting the assignment's overall efficiency. To improve in the future, we plan to tackle these challenges early on and become more familiar with Jira, aiming for smoother task delegation and better collaboration in upcoming assignments.
 
-
-### Comments and feedback
 The SENG 637 Lab Assignment #1 is a great way to learn about software testing step by step. It covers exploring a system, trying out different testing methods, and checking if issues are fixed in a new version. The use of tools like Jira and Azure DevOps adds a real-world touch. The guidelines for submitting work are clear, and the lab encourages working in pairs, enhancing learning through teamwork. The document is easy to follow, with simple language and helpful feedback sections. Overall, it's a practical and well-organized introduction to software testing.
 
