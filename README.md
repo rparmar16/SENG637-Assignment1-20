@@ -96,13 +96,38 @@ For each of the key operations, functions and areas for SUT defined above, the f
 
 Assign different groups different components to test
 
-*Deposits:* - Usman| Jubayer | Ehsan
-*Withdrawals:* - Robby | Gopal
-*Transfer:* - Usman| Jubayer | Ehsan
-*Balance Inquiry* - Robby | Gopal
-*Transaction Operations:*  - Usman| Jubayer | Ehsan
-*User Interface:* - Robby | Gopal
-*Receipts:* - Usman| Jubayer | Ehsan
+### Deposits:
+- Usman
+- Jubayer
+- Ehsan
+
+### Withdrawals:
+- Robby
+- Gopal
+
+### Transfer:
+- Usman
+- Jubayer
+- Ehsan
+
+### Balance Inquiry:
+- Robby
+- Gopal
+
+### Transaction Operations:
+- Usman
+- Jubayer
+- Ehsan
+
+### User Interface:
+- Robby
+- Gopal
+
+### Receipts:
+- Usman
+- Jubayer
+- Ehsan
+
 
 
 
